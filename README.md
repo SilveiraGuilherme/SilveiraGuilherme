@@ -30,7 +30,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-  <div align="center">
+### Connect:
+
+<a href="https://linkedin.com/in/jsguilherme" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsguilherme" height="30" width="auto" /></a>
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SilveiraGuilherme}/count.svg" /></p>
 <br></div>
