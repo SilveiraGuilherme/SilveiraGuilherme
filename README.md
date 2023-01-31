@@ -32,7 +32,7 @@
 
 ### Connect:
 
-<a href="https://linkedin.com/in/jsguilherme" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsguilherme" height="30" width="auto" /></a>
+<a href="https://linkedin.com/in/jsguilherme" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsguilherme" height="30" width="auto" /></a>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p> 
