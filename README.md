@@ -4,12 +4,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SilveiraGuilherme&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Silveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilveiraGuilherme&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Guilherme Silveira github stats/>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SilveiraGuilherme&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Guilherme Silveira github profile trophies" />
-</p>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilveiraGuilherme&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Guilherme Silveira github stats">
+</div><br/><br/>
 
 ### Main skills:
 
