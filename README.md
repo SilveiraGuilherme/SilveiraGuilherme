@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme+Silveira.;I'm+a+Front-End+Software+Developer.;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
+<div align="center">👋 Hello and welcome to my GitHub profile!<br/><br/>
+  📦 After relocating to Dublin, Ireland in March, I made the decision to take a career break and temporarily put my studies in Software Development on hold. My main priority during this period was to establish a comfortable living environment in my new home. As a result, my recent activity on GitHub might be less pronounced.<br/><br/>
+  🔍 However, I encourage you to explore my previous projects and contributions. You will find a range of work that showcases my skills and passion for software development. Feel free to browse through my repositories and discover the projects I've been involved in.<br/><br/>
+  💼 Currently, I'm eagerly seeking new employment opportunities within the IT field and I am excited to immerse myself back into work in the near future. I am actively pursuing fresh challenges and looking forward to contributing to impactful projects.<br/><br/>
+  🤝 Thank you for visiting my profile, and if you have any questions or would like to collaborate, don't hesitate to reach out. Let's connect and create something great together!</div><br/><br/>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SilveiraGuilherme&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Silveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilveiraGuilherme&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Guilherme Silveira github stats">
