@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme.;I'm+a+Software+Developer.;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme;I'm+a+Software+Developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="left">👋 Hello and welcome to my GitHub profile!<br/><br/>  
   🎓 I am currently pursuing a Higher Diploma in Science in Computing at the National College of Ireland (NCI), with graduation expected in August 2025. My studies have deepened my knowledge of software development, and I am actively working on projects that showcase my skills.<br/><br/>  
