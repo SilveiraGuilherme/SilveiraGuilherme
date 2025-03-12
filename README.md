@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme+Silveira.;I'm+a+Front-End+Software+Developer.;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<div align="left">👋 Hello and welcome to my GitHub profile!<br/><br/>
-  📦 After relocating to Dublin, Ireland in March, I made the decision to take a career break and temporarily put my studies in Software Development on hold. My main priority during this period was to establish a comfortable living environment in my new home. As a result, my recent activity on GitHub might be less pronounced.<br/><br/>
-  🔍 However, I encourage you to explore my previous projects and contributions. You will find a range of work that showcases my skills and passion for software development. Feel free to browse through my repositories and discover the projects I've been involved in.<br/><br/>
-  💼 Currently, I'm eagerly seeking new employment opportunities within the IT field and I am excited to immerse myself back into work in the near future. I am actively pursuing fresh challenges and looking forward to contributing to impactful projects.<br/><br/>
-  🤝 Thank you for visiting my profile, and if you have any questions or would like to collaborate, don't hesitate to reach out. Let's connect and create something great together!</div><br/><br/>
+<div align="left">👋 Hello and welcome to my GitHub profile!<br/><br/>  
+  🎓 I am currently pursuing a Higher Diploma in Science in Computing at the National College of Ireland (NCI), with graduation expected in August 2025. My studies have deepened my knowledge of software development, and I am actively working on projects that showcase my skills.<br/><br/>  
+  📌 After relocating to Dublin, Ireland, I initially took a career break to settle in, but I am now fully focused on my studies and professional growth in the IT field. My GitHub reflects both my academic journey and my passion for technology.<br/><br/>  
+  💼 Upon graduation, I will hold a Stamp 1G visa, allowing me to work full-time in Ireland. I am eager to explore new opportunities, contribute to impactful projects, and collaborate with like-minded professionals.<br/><br/>  
+  🔍 Feel free to explore my repositories, where you’ll find a variety of projects that demonstrate my problem-solving skills and enthusiasm for software development.<br/><br/>  
+  🤝 If you have any questions, want to collaborate, or discuss potential opportunities, don’t hesitate to reach out. Let’s connect and build something great together!</div><br/><br/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SilveiraGuilherme&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Silveira github stats" /> 
