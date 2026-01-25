@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme;I'm+a+Software+Developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<div align="left">👋 Hello and welcome to my GitHub profile!<br/><br/>  
-  🎓 I am currently pursuing a Higher Diploma in Science in Computing at the National College of Ireland (NCI), with graduation expected in August 2025. My studies have deepened my knowledge of software development, and I am actively working on projects that showcase my skills.<br/><br/>  
-  📌 After relocating to Dublin, Ireland, I initially took a career break to settle in, but I am now fully focused on my studies and professional growth in the IT field. My GitHub reflects both my academic journey and my passion for technology.<br/><br/>  
-  💼 Upon graduation, I will hold a Stamp 1G visa, allowing me to work full-time in Ireland. I am eager to explore new opportunities, contribute to impactful projects, and collaborate with like-minded professionals.<br/><br/>  
-  🔍 Feel free to explore my repositories, where you’ll find a variety of projects that demonstrate my problem-solving skills and enthusiasm for software development.<br/><br/>  
-  🤝 If you have any questions, want to collaborate, or discuss potential opportunities, don’t hesitate to reach out. Let’s connect and build something great together!</div><br/><br/>
+<div align="left">👋 Hi, I’m Guilherme — a graduate software developer with a strong academic foundation in computer science and a focus on backend development.<br/><br/>  
+  🎓 I have recently completed a Higher Diploma in Science in Computing (First Class Honours) at the National College of Ireland, where I’ve worked extensively with Java, object-oriented design, data structures, distributed systems, and RESTful API development.<br/><br/>  
+  🛠️ My projects focus on building reliable, data-driven applications, including secure authentication, backend business logic, and database integration. I enjoy solving problems, learning new technologies, and writing clean, maintainable code.<br/><br/>  
+  💼 I am based in Dublin and hold a Stamp 1G visa, allowing me to work full-time in Ireland without a work permit.<br/><br/>  
+  🔍 Feel free to explore my repositories to see academic and self-driven projects that reflect my growth as a software engineer.<br/><br/>  
+  🤝 Always open to collaboration, technical discussions, and new opportunities.</div><br/><br/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SilveiraGuilherme&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Silveira github stats" /> 
@@ -16,6 +16,7 @@
 
 ### Main skills:
 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -24,7 +25,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
