@@ -61,5 +61,5 @@
 
 <div align="center">
 <br><p><b>Visitors Count</b></p> 
-<img src="https://profile-counter.glitch.me/{SilveiraGuilherme}/count.svg" />
+<img src="https://profile-counter.glitch.me/SilveiraGuilherme/count.svg" />
 </div>
